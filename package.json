@@ -1,0 +1,16 @@
+{
+  "name": "dbb-backend",
+  "version": "0.0.1",
+  "description": "Backend for the Discord Bot Builder",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Lang",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "express": "^4.16.4",
+    "firebase": "^5.7.2"
+  }
+}
